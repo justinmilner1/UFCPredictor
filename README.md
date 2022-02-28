@@ -2,6 +2,11 @@
 ### Make predictions on UFC fights using ensemble learners
 #### This is a project built on top of WarrierRajeev's (https://github.com/WarrierRajeev/UFC-Predictions)
 
+### The following have been added:
+- Update to tensorflow 2+
+- Increased classification accuracy
+- Regression-based betting-odds evaluation
+
 ### Usage
 1) Add upcoming fights to raw_total_fight_data (both fighters names and Fight_type)
 2) run preprocessing_and_EDA-1
